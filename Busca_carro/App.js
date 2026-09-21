@@ -55,7 +55,7 @@ const pesquisarPlaca = () => {
 
     <View style={styles.container}>
       <Text style = {[styles.text]}>Procure pelo pneu de sua escolha</Text>
-      <Text  style = {[styles.subtitulo]}>Siga o exemplo de medida265_65-R17</Text>
+      <Text  style = {[styles.subtitulo]}>Siga o exemplo de medida 265_65-R17</Text>
        <TextInput
       style={[styles.TextInput]}
         placeholder="Diga a marcação do pneu"
